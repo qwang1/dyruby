@@ -2,12 +2,12 @@ Name: dyruby
 Cartridge-Short-Name: RUBY
 Display-Name: Ruby 1.9
 Description: "Ruby is a dynamic, reflective, general-purpose object-oriented programming language. Popular development frameworks include Ruby on Rails and Sinatra."
-Version: '1.9c'
+Version: '1.9'
 Versions: ['1.9', '1.8']
 License: "Ruby BSDL"
 License-Url: http://www.ruby-lang.org/en/about/license.txt
 Vendor: ruby.org
-Cartridge-Version: 0.0.4
+Cartridge-Version: 0.a0.4
 Cartridge-Vendor: dy
 Categories:
   - service

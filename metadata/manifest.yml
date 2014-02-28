@@ -112,3 +112,6 @@ Install-Build-Required: false
 Source-Url: https://github.com/duyanyan/dyruby.git
 ##Source-Url: git://github.com/duyanyan/dyruby.git
 ##
+
+
+exit 1

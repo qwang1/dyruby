@@ -106,7 +106,7 @@ Version-Overrides:
 Install-Build-Required: false
 #Source-Url: file:///root/cperlv2cart//root/test/cperlv2cart
 ###Source-Url: file:///root/dyruby/
-###Source-Md5: d916798a7e218f12b476bf1dee645f9d
+Source-Md5: d916798a7e218f12b476bf1dee645f9d
 ##Source-Url: https://github.com/duyanyan/dyruby/raw/master/dyruby.tar.gz
 #Source-Url: https://github.com/duyanyan/dyruby/raw/master/dyruby.zip
 Source-Url: https://github.com/duyanyan/dyruby.git
